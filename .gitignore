@@ -1,0 +1,3 @@
+*.nvda-addon
+*.mo
+__pycache__/

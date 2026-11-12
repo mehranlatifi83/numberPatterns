@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa\n"
+
+msgid "Number Patterns"
+msgstr "الگوی اعداد"
+
+msgid "&Read numbers using patterns"
+msgstr "&خواندن اعداد با الگو"
+
+msgid "&Patterns, one per line (group sizes separated by dashes, e.g. 4-2-2-3):"
+msgstr "&الگوها، هر خط یک الگو (اندازه‌ی گروه‌ها با خط تیره، مثلاً 4-2-2-3):"
+
+msgid "For other numbers, read in &groups of (0 = off):"
+msgstr "بقیه‌ی اعداد را &چندتا چندتا بخوان (0 = خاموش):"
+
+msgid "Only group numbers with at least this many &digits:"
+msgstr "فقط اعدادی که حداقل این تعداد &رقم دارند گروه‌بندی شوند:"
+
+msgid "P&ause between groups"
+msgstr "&مکث بین گروه‌ها"
+
+msgid "This pattern is not valid: {pattern}\nWrite group sizes separated by dashes, for example 4-2-2-3."
+msgstr "این الگو درست نیست: {pattern}\nاندازه‌ی گروه‌ها را با خط تیره جدا کنید، مثلاً 4-2-2-3."
+
+msgid "Invalid pattern"
+msgstr "الگوی نادرست"
+
+msgid "Turns reading numbers using patterns on or off"
+msgstr "خواندن اعداد با الگو را روشن یا خاموش می‌کند"
+
+msgid "Number patterns on"
+msgstr "الگوی اعداد روشن"
+
+msgid "Number patterns off"
+msgstr "الگوی اعداد خاموش"
